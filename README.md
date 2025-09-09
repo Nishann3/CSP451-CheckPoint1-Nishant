@@ -9,3 +9,5 @@ This repo contains files required for Week 1 CheckPoint: basic web files, git hi
 - script.js
 - .gitignore
 - about.html (on feature branch)
+## Update
+Added screenshots and more details.
